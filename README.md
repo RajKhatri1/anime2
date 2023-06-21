@@ -19,7 +19,11 @@ samples, guidance on mobile development, and a full API reference.
  <img src = "https://github.com/RajKhatri1/anime2/assets/115798958/3a8f9eae-2d23-47d9-bb54-f9c9cea784b4"width=22% height=35%>
  
 
-https://github.com/RajKhatri1/anime2/assets/115798958/a627bd73-1363-43ba-86b7-344fa743123f
+
+
+https://github.com/RajKhatri1/anime2/assets/115798958/969137a9-768a-4f3b-8797-071019ee193a
+
+
 
 
 </p>
